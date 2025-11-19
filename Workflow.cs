@@ -20,6 +20,8 @@ namespace RpaTraining
             // For accessing UI Elements from Object Repository, you can use the Descriptors class e.g:
             // var screen = uiAutomation.Open(Descriptors.MyApp.FirstScreen);
             // screen.Click(Descriptors.MyApp.FirstScreen.SettingsButton);
+            
+            //hello
         }
     }
 }
